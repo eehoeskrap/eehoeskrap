@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=eehoeskrap&color=dc143c)
 
-Aims to transform image and video based AI technologies into meaningful services. 💘
+**Aims to transform image and video based AI technologies into meaningful services.** 💘
 
 - **Email** : eehoeskrap@gmail.com
 - **Blog 1** : [http://eehoeskrap.tistory.com](http://eehoeskrap.tistory.com)
