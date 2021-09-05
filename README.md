@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 **Aims to transform image and video based AI technologies into meaningful services.** 💘
 
 - **Email** : eehoeskrap@gmail.com
-- **Blog 1** : [http://eehoeskrap.tistory.com](http://eehoeskrap.tistory.com)
-- **Blog 2** : [https://eehoeskrap.github.io](https://eehoeskrap.github.io)
+- **Blog** : [http://eehoeskrap.tistory.com](http://eehoeskrap.tistory.com)
+- **Git.io** : [https://eehoeskrap.github.io](https://eehoeskrap.github.io)
 - **Github** : [https://github.com/eehoeskrap](https://github.com/eehoeskrap)
 
 ### Work Experience & Education
