@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - **Email** : eehoeskrap@gmail.com
 - **Blog** : [http://eehoeskrap.tistory.com](http://eehoeskrap.tistory.com)
-- **Git.io** : [https://eehoeskrap.github.io](https://eehoeskrap.github.io)
+- **Github.io** : [https://eehoeskrap.github.io](https://eehoeskrap.github.io)
 - **Github** : [https://github.com/eehoeskrap](https://github.com/eehoeskrap)
 
 ### Work Experience & Education
