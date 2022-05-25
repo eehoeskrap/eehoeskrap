@@ -32,13 +32,14 @@ Here are some ideas to get you started:
 - Kyonggi University, Master of Computer Science (2017.03 ~ 2018.08)
 - Kyonggi University, Bachelor of Computer Science (2013.03 ~ 2017.02)
 
-### Interest
+### Interest 💖💖💖
 - 2D/3D Pose Estimation
 - Human Action Recognition/Classification
 - Object Detection & Tracking
 - Image Classification
 - Avatar & 3D Reconstruction
 - Model Deployment using TensorRT and ONNX 
-- All About Deep Learning and Computer Vision 💖
+- Deep Learning
+- Computer Vision
 - ... 
 
