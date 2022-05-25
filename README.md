@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 - **Github** : [https://github.com/eehoeskrap](https://github.com/eehoeskrap)
 
 ### Work Experience & Education
-- KT, **AI Research Engineer** (2018.12 ~ Current 🏃‍♀️)
+- NAVER Z, Machine Learning Engineer (2022.05 ~ 🏃‍♀️)
+- KT, AI Research Engineer (2018.12 ~ 2022.05)
 - KETI, Computer Vision Engineer (2018.07 ~ 2018.12)
 - Kyonggi University, Master of Computer Science (2017.03 ~ 2018.08)
 - Kyonggi University, Bachelor of Computer Science (2013.03 ~ 2017.02)
