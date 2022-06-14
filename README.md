@@ -1,28 +1,11 @@
 ### Seohee, Park 
 
-<!--
-**eehoeskrap/eehoeskrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ![](https://komarev.com/ghpvc/?username=eehoeskrap&color=dc143c)
 
 **Aims to transform image and video based AI technologies into meaningful services.** 💘
 
 - **Email** : eehoeskrap@gmail.com
 - **Blog** : [http://eehoeskrap.tistory.com](http://eehoeskrap.tistory.com)
-- **Github.io** : [https://eehoeskrap.github.io](https://eehoeskrap.github.io)
 - **Github** : [https://github.com/eehoeskrap](https://github.com/eehoeskrap)
 
 ### Work Experience & Education
@@ -42,4 +25,3 @@ Here are some ideas to get you started:
 - Deep Learning
 - Computer Vision
 - ... 
-
