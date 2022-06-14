@@ -1,6 +1,7 @@
 ### Seohee, Park 
 
 ![](https://komarev.com/ghpvc/?username=eehoeskrap&color=dc143c)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seohee-park-516544143/)](https://www.linkedin.com/in/seohee-park-516544143/)
 
 **Aims to transform image and video based AI technologies into meaningful services.** 💘
 
