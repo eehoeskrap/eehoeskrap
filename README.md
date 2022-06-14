@@ -1,13 +1,11 @@
-### Seohee, Park 
+### Seohee Park 
 
 ![](https://komarev.com/ghpvc/?username=eehoeskrap&color=dc143c)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eehoeskrap@gmail.com)](mailto:eehoeskrap@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seohee-park-516544143/)](https://www.linkedin.com/in/seohee-park-516544143/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://eehoeskrap.tistory.com/)](http://eehoeskrap.tistory.com/)
 
 **Aims to transform image and video based AI technologies into meaningful services.** 💘
-
-- **Email** : eehoeskrap@gmail.com
-- **Blog** : [http://eehoeskrap.tistory.com](http://eehoeskrap.tistory.com)
-- **Github** : [https://github.com/eehoeskrap](https://github.com/eehoeskrap)
 
 ### Work Experience & Education
 - NAVER Z, Machine Learning Engineer (2022.05 ~ 🏃‍♀️)
