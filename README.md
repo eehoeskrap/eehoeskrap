@@ -8,7 +8,7 @@
 **Aims to transform image and video based AI technologies into meaningful services.** 💘
 
 ### Work Experience & Education
-- NAVER Z, Machine Learning Engineer (2022.05 ~ 🏃‍♀️)
+- NAVER Z, AI Research Engineer (2022.05 ~ 🏃‍♀️)
 - KT, AI Research Engineer (2018.12 ~ 2022.05)
 - KETI, Computer Vision Engineer (2018.07 ~ 2018.12)
 - Kyonggi University, Master of Computer Science (2017.03 ~ 2018.08)
