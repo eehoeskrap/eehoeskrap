@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seohee-park-516544143/)](https://www.linkedin.com/in/seohee-park-516544143/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://eehoeskrap.tistory.com/)](http://eehoeskrap.tistory.com/)
 
-I love developing meaningful services using AI-based pose estimation technology. 💘
+I love developing meaningful services using AI technology. 💘
 
 ### Work Experience
 - NAVER Z, AI Research Engineer (2022.05 ~ 🏃‍♀️)
