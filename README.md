@@ -8,6 +8,7 @@
 I love developing meaningful services using AI technology. 💘
 
 ### Work Experience
-- NAVER Z, AI Research Engineer (2022.05 ~ 🏃‍♀️)
+- SNOW, AI Software Engineer (2024.09 ~ 🏃‍♀️)
+- NAVER Z, AI Research Engineer (2022.05 ~ 2024.09)
 - KT, AI Research Engineer (2018.12 ~ 2022.05)
 - KETI, Computer Vision Engineer (2018.07 ~ 2018.12)
